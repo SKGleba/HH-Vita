@@ -56,9 +56,11 @@ By SKGleba & coderx3
 # Credits
  - coderx3/devingDev "I just coded the JSON thing"
  - Team Molecule
+ - HentaiHaven Team
    
 # Notes
  - If you get a "Cannot play this video", try with a lower resolution
+ - If a link is dead, please create a issue here or contact me on twitter
  - For any help/serious issue DM me on twitter (twitter.com/skgleba)
  - If you want to help me by donating: paypal.me/skgleba (^_^ thx)
- - In the "Safe" version, if you input a valid http mp4 link - you will be able to watch it.
+ - In the "Safe" version, if you input a valid http mp4 link - you will be able to watch it
