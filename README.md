@@ -65,8 +65,6 @@ By SKGleba & coderx3
 ![ref5](https://github.com/SKGleba/HH-Vita/raw/master/sss/dl.jpg)
 
  - The "Safe" Version:
-   - At first boot you will be able to set the password
-   - You can remove it by deleting the /pwd/ directory from ux0:data/hhapp/
    
 ![ref6](https://github.com/SKGleba/HH-Vita/raw/master/sss/larea_safe.jpg)
 
@@ -81,7 +79,8 @@ By SKGleba & coderx3
  - If you get a "Cannot play this video", try with a lower resolution
  - If a link is dead, please create a issue here or contact me on twitter
  - You can put own db in ux0:data/hhapp/udb.json
- - The character used in the background is "Mitake Ran" (tho everybody calls her HH-Chan). You can find more about her under this link: https://danbooru.donmai.us/posts?tags=mitake_ran
+ - You can remove the password by deleting the /pwd/ directory from ux0:data/hhapp/
+ - The character used in the background is "Mitake Ran" (tho everybody calls her HH-Chan). You can find more about her under this link: https://danbooru.donmai.us/wiki_pages/86917
+ - In the "Safe" version, if you input a valid http mp4 link - you will be able to watch it
  - For any help/serious issue DM me on twitter (twitter.com/skgleba)
  - If you want to help me by donating: paypal.me/skgleba (^_^ thx)
- - In the "Safe" version, if you input a valid http mp4 link - you will be able to watch it
