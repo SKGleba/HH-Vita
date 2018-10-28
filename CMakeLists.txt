@@ -37,9 +37,6 @@ include_directories(
 
 add_executable(${SHORT_NAME}.elf
   src/main.cpp
-  src/EpisodeVideo.cpp
-  src/Episode.cpp
-  src/Series.cpp
   src/VitaPad.cpp
 )
 
@@ -79,8 +76,10 @@ vita_create_vpk(${SHORT_NAME}.vpk ${VITA_TITLEID} eboot.bin
   VERSION ${VITA_VERSION}
   NAME ${VITA_APP_NAME}
   FILE ${CMAKE_SOURCE_DIR}/assets/font.ttf assets/font.ttf
-  FILE ${CMAKE_SOURCE_DIR}/assets/mp4p.bin mp4p.bin
+  FILE ${CMAKE_SOURCE_DIR}/assets/safe.bin mp4p.bin
+  FILE ${CMAKE_SOURCE_DIR}/assets/defset.x defset.x
   FILE ${CMAKE_SOURCE_DIR}/assets/db.json assets/db.json
+  FILE ${CMAKE_SOURCE_DIR}/assets/dball.json assets/dball.json
   FILE ${CMAKE_SOURCE_DIR}/assets/icon0.png sce_sys/icon0.png
   FILE ${CMAKE_SOURCE_DIR}/assets/bg.png sce_sys/livearea/contents/bg0.png
   FILE ${CMAKE_SOURCE_DIR}/assets/pic0.png sce_sys/pic0.png
