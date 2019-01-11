@@ -83,4 +83,3 @@ By SKGleba & coderx3
  - The character used in the background is "Mitake Ran" (tho everybody calls her HH-Chan). You can find more about her under this link: https://danbooru.donmai.us/wiki_pages/86917
  - In the "Safe" version, if you input a valid http mp4 link - you will be able to watch it
  - For any help/serious issue DM me on twitter (twitter.com/skgleba)
- - If you want to help me by donating: paypal.me/skgleba (^_^ thx)
