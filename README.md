@@ -12,7 +12,7 @@ By SKGleba & coderx3
  - Downloaded movies are automatically added to the built-in vita player's gallery
  - Password lock (optional)
  - "One-Hand mode"/"Left-Hand mode"
- - A "Safe" version with a "MP4 Player" livearea (optional).
+ - A "Safe" version with an "MP4 Player" livearea (optional).
 
 # Usage
  - Main Menu (available series list):
