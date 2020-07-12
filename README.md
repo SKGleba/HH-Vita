@@ -3,6 +3,8 @@ A HentaiHaven.org app for Playstation Vita/TV
 
 By SKGleba & coderx3
 
+## WARNING: The private video host is down - hh.cx links will cause a crash.
+
 ![ref0](https://github.com/SKGleba/HH-Vita/raw/master/sss/larea.jpg)
 
 # Features
